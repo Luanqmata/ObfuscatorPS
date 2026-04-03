@@ -64,8 +64,6 @@ function Show-Help {
     Write-Host ""
 }
 
-# --- FUNCOES DE CONVERSAO (TODAS ATUALIZADAS PARA IEX) ---
-
 function ConvertTo-Binary {
     param($Texto)
     $binario = @()
@@ -141,8 +139,6 @@ function ConvertTo-Base64 {
     $Encoded = [Convert]::ToBase64String($Bytes)
     return "powershell -EncodedCommand $Encoded"
 }
-
-# --- LOGICA DE EXECUCAO ---
 
 try {
     $ManualArg = $args | Where-Object { $_ -eq "--help" }
