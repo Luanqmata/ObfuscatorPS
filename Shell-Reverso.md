@@ -85,9 +85,6 @@ O ObfuscatorPS permite mascarar comandos mantendo sua execução, sendo útil pa
 ## ⚠️ Aviso
 
 Uso apenas para fins educacionais.
+Obs: Firewall desativado...
 
 ---
-
-## 🙏 Autor
-
-Luan Calazans
