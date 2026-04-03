@@ -46,5 +46,7 @@ passo 4: checkar o msfconsole
 
 Checkando o msfconsole conseguimos o acesso e podemos executar comandos remotos como desligar o aparelho tirar screensshots e navegar nos arquivos.
 
+<img width="1233" height="272" alt="image" src="https://github.com/user-attachments/assets/33eb1f44-8ccf-4c6d-901b-f62feca32ad3" />
+
 Obrigado
 
