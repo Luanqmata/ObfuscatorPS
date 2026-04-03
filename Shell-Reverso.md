@@ -88,3 +88,10 @@ Uso apenas para fins educacionais.
 Obs: Firewall desativado...
 
 ---
+
+## Usando o modo de Space
+
+<img width="1241" height="766" alt="image" src="https://github.com/user-attachments/assets/33120721-da91-4e77-8545-d0c0ba69c742" />
+
+<img width="1249" height="863" alt="image" src="https://github.com/user-attachments/assets/92f5972b-5a42-49ed-bc20-ea15f5e7af94" />
+
