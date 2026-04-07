@@ -69,3 +69,4 @@ Exibir ajuda:
 - Análise de reconstrução de código  
 
 ---
+<img width="1249" height="863" alt="image" src="https://github.com/user-attachments/assets/522de6ed-d3db-4ffe-a90e-d8d0835bffcf" />
